@@ -3,8 +3,8 @@
         <div class="row">
             <div class="col-md-6 wow animate__animated animate__fadeInLeft">
                 <div class="branding-image-container relative">
-                    <img class="branding-image-shape" src="assets/img/svg/Group21.svg" alt="enpix">
-                    <img class="branding-image" src="assets/img/home/global-branding/branding.png" alt="enpix">
+                    <img class="branding-image-shape" src="assets/frontend/img/svg/Group21.svg" alt="enpix">
+                    <img class="branding-image" src="assets/frontend/img/home/global-branding/branding.png" alt="enpix">
                 </div>
             </div>
             <div class="col-md-6 wow animate__animated animate__fadeInRight">

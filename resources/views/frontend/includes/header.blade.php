@@ -15,51 +15,32 @@
                 <nav id="menu" class="site-menu ml-auto">
                     <ul>
                         <li class="current-menu-item">
-                            <a href="index.html">Home</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="index.html">Home 1</a></li>
-                                <li><a href="index-2.html">Home 2</a></li>
-                                <li><a href="index-3.html">Home 3</a></li>
-                                <li><a href="index-4.html">Home 4</a></li>
-                            </ul>
+                            <a href="/">Home</a>
                         </li>
                         <li>
-                            <a href="about.html">About</a>
+                            <a href="/about-us">About Us</a>
                         </li>
                         <li>
-                            <a href="services.html">Services</a>
-                        </li>
-                        <li>
-                            <a href="javascript:void(0)">Pages</a>
+                            <a href="javascript:void(0)">Services</a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="portfolio.html">Portfolio</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="portfolio-details.html">Portfolio Details</a></li>
-                                    </ul>
+                                    <a href="portfolio.html">Web Development</a>
                                 </li>
                                 <li>
-                                    <a href="team.html">Team</a>
-                                    <ul class="dropdown-menu">
-                                        <li><a href="team-details.html">Team Details</a></li>
-                                    </ul>
+                                    <a href="team.html">Graphics Design</a>
                                 </li>
-                                <li><a href="faq.html">FAQ</a></li>
-                                <li><a href="404.html">404 Page</a></li>
+                                <li><a href="faq.html">Digital Marketing</a></li>
+                                <li><a href="404.html">Business Consultancy</a></li>
                             </ul>
                         </li>
                         <li>
-                            <a href="blog.html">Blog</a>
-                            <ul class="dropdown-menu">
-                                <li><a href="blog-details.html">Blog Details</a></li>
-                                <li><a href="blog-details-sidebar.html">Post with Sidebar</a></li>
-                            </ul>
+                            <a href="/portfolio">Portfolio</a>
                         </li>
                     </ul>
                 </nav>
             </div>
             <div class="col-xl-2 d-xl-flex d-none align-items-center">
-                <a href="contact.html" class="enpix-cta ml-auto">Contact Us</a>
+                <a href="/contact-us" class="enpix-cta ml-auto">Contact Us</a>
             </div>
         </div>
     </div>
