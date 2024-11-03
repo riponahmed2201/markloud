@@ -1,17 +1,17 @@
-<section class="projects-area pt-130 pb-130">
+<section class="projects-area pb-130">
     <div class="container">
         <div class="projects-header">
             <div class="row">
                 <div class="col-xl-7">
-                    <h2 class="heading-1">Our recent <span>projects</span>.</h2>
+                    <h2 class="heading-1">Our Work <span>Gallary</span>.</h2>
                     <p class="mt-50 mb-0">Aliquam tristique libero at dui sodales, et placerat orci lobortis.
                         Donec
                         metus lorem, vulputate at sapien sit amet, auctor iaculis lorem.</p>
                 </div>
                 <div class="col-xl-5">
                     <div class="projects-link">
-                        <a href="portfolio.html">
-                            Show More Projects
+                        <a href="javascript:void(0)">
+                            Show More Gallary
                             <svg width="20" height="21" viewbox="0 0 20 21" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path d="M15 13L17.5 10.5L15 8M2.5 10.5H17.5H2.5Z" stroke-width="1.5"
@@ -81,7 +81,8 @@
             </div>
             <div class="project-box">
                 <div class="project-thumbnail">
-                    <a href="portfolio-details.html"><img src="assets/frontend/img/home/projects/image.png" alt="enpix"></a>
+                    <a href="portfolio-details.html"><img src="assets/frontend/img/home/projects/image.png"
+                            alt="enpix"></a>
                 </div>
                 <div class="project-details pt-35">
                     <div class="row">

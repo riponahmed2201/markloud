@@ -4,7 +4,8 @@
             <div class="col-xl-2 col-9">
                 <div class="logo">
                     <a href="/">
-                        <img src="assets/frontend/img/site-logo/logo-black.png" alt="markloud">
+                        <img style="width: 194px; height:56px" src="{{ asset('assets/logo/markloud-logo.jpg') }}"
+                            alt="Markloud">
                     </a>
                 </div>
             </div>

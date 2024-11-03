@@ -11,19 +11,19 @@
     @include('frontend.pages.home.services-area')
 
     <!-- =========================== Branding Area =========================================== -->
-    @include('frontend.pages.home.branding-area')
+    {{-- @include('frontend.pages.home.branding-area') --}}
 
     <!-- =========================== Speciality Area =========================================== -->
-    @include('frontend.pages.home.speciality-area')
+    {{-- @include('frontend.pages.home.speciality-area') --}}
 
     <!-- =========================== Projects Area =========================================== -->
     @include('frontend.pages.home.project-area')
 
     <!-- =========================== Reviews Area =========================================== -->
-    @include('frontend.pages.home.review-area')
+    {{-- @include('frontend.pages.home.review-area') --}}
 
     <!-- =========================== Blog Area =========================================== -->
-    @include('frontend.pages.home.blog-area')
+    {{-- @include('frontend.pages.home.blog-area') --}}
 
     <!-- ======================= Subscribe Area ======================================= -->
     @include('frontend.pages.home.subscribe-form-area')
