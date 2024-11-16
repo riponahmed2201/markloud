@@ -16,7 +16,7 @@
 <body class="enpix-bg-1">
 
     <!-- Preloader Starts-->
-    @include('frontend.includes.preloader')
+    {{-- @include('frontend.includes.preloader') --}}
     <!-- Preloader Ends -->
 
     <!-- =========================== Menu Area =========================================== -->
@@ -28,6 +28,9 @@
     <main>
         @yield('content')
     </main>
+
+    <!-- ======================= Subscribe Area ======================================= -->
+    @include('frontend.pages.home.subscribe-form-area')
 
     <!-- =========================== Footer Section =========================================== -->
     @include('frontend.includes.footer')

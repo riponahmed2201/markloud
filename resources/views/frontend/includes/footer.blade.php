@@ -1,6 +1,6 @@
 <footer class="enpix-footer-light">
-    <img src="assets/frontend/img/svg/footer-light-path.svg" alt="enpix" class="footer-path">
-    <img src="assets/frontend/img/svg/Trianglelineshape.svg" alt="enpix" class="footer-triangle">
+    <img src="{{ asset('assets/frontend/img/svg/footer-light-path.svg') }}" alt="enpix" class="footer-path">
+    <img src="{{ asset('assets/frontend/img/svg/Trianglelineshape.svg') }}" alt="enpix" class="footer-triangle">
     <div class="container footer-container enpix-border-top">
         <div class="row">
             <div class="col-lg-3 mb-30">

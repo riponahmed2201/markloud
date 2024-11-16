@@ -32,4 +32,9 @@ class HomeController extends Controller
     {
         return view('frontend.pages.portfolio.details');
     }
+
+    public function webDesignAndDevelopment()
+    {
+        return view('frontend.pages.services.web-development');
+    }
 }

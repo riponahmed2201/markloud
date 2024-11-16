@@ -25,7 +25,7 @@
                             <a href="javascript:void(0)">Services</a>
                             <ul class="dropdown-menu">
                                 <li>
-                                    <a href="portfolio.html">Web Development</a>
+                                    <a href="{{ route('service.webDevelopment') }}">Web Development</a>
                                 </li>
                                 <li>
                                     <a href="team.html">Graphics Design</a>

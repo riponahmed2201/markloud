@@ -11,6 +11,12 @@ Route::get('contact-us', [HomeController::class, 'contactUs']);
 Route::get('portfolio', [HomeController::class, 'portfolio']);
 Route::get('portfolio-details', [HomeController::class, 'portfolioDetails']);
 
+//Services
+Route::group(['prefix' => 'services/', 'as' => 'service.'], function () {
+    Route::get('website-design-and-development', [HomeController::class, 'webDesignAndDevelopment'])->name('webDevelopment');
+});
+
+
 
 //Admin Routes
 Route::get('/dashboard', [DashboardController::class, 'index']);

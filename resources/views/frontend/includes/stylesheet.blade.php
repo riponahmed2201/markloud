@@ -5,13 +5,13 @@
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
     <!-- Stylesheets -->
-    <link rel="stylesheet" href="assets/frontend/css/all.min.css">
-    <link rel="stylesheet" href="assets/frontend/css/normalize.css">
-    <link rel="stylesheet" href="assets/frontend/css/bootstrap.min.css">
-    <link rel="stylesheet" href="assets/frontend/css/splide.min.css">
-    <link rel="stylesheet" href="assets/frontend/css/animate.min.css">
-    <link rel="stylesheet" href="assets/frontend/css/preloader.css">
-    <link rel="stylesheet" href="assets/frontend/css/main.css">
-    <link rel="stylesheet" href="assets/frontend/css/mmenu-light.css">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/all.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/normalize.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/bootstrap.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/splide.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/animate.min.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/preloader.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/main.css') }}">
+    <link rel="stylesheet" href="{{ asset('assets/frontend/css/mmenu-light.css') }}">
 
     @yield('page_css')

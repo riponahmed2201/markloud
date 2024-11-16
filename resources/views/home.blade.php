@@ -25,6 +25,4 @@
     <!-- =========================== Blog Area =========================================== -->
     {{-- @include('frontend.pages.home.blog-area') --}}
 
-    <!-- ======================= Subscribe Area ======================================= -->
-    @include('frontend.pages.home.subscribe-form-area')
 @endsection
