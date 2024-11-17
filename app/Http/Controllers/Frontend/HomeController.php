@@ -37,4 +37,9 @@ class HomeController extends Controller
     {
         return view('frontend.pages.services.web-development');
     }
+
+    public function graphicDesign()
+    {
+        return view('frontend.pages.services.graphic-design');
+    }
 }
