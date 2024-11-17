@@ -30,8 +30,9 @@
                                 <li>
                                     <a href="{{ route('service.graphicDesign') }}">Graphics Design</a>
                                 </li>
-                                <li><a href="faq.html">Digital Marketing</a></li>
-                                <li><a href="404.html">Business Consultancy</a></li>
+                                <li><a href="{{ route('service.ppcEmailSmsMarketing') }}">PPC Ad, Email & SMS</a></li>
+                                <li><a href="{{ route('service.ppcEmailSmsMarketing') }}">Digital Marketing</a></li>
+                                <li><a href="{{ route('service.ppcEmailSmsMarketing') }}">Business Consultancy</a></li>
                             </ul>
                         </li>
                         <li>

@@ -42,4 +42,9 @@ class HomeController extends Controller
     {
         return view('frontend.pages.services.graphic-design');
     }
+
+    public function ppcEmailSmsMarketing()
+    {
+        return view('frontend.pages.services.ppc-email-sms-marketing');
+    }
 }

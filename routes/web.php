@@ -15,6 +15,7 @@ Route::get('portfolio-details', [HomeController::class, 'portfolioDetails']);
 Route::group(['prefix' => 'services/', 'as' => 'service.'], function () {
     Route::get('website-design-and-development', [HomeController::class, 'webDesignAndDevelopment'])->name('webDevelopment');
     Route::get('graphic-design', [HomeController::class, 'graphicDesign'])->name('graphicDesign');
+    Route::get('ppc-email-sms-marketing', [HomeController::class, 'ppcEmailSmsMarketing'])->name('ppcEmailSmsMarketing');
 });
 
 

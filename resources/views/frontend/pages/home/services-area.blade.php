@@ -47,9 +47,10 @@
                 <div class="col-xl-3 col-sm-6">
                     <div class="service-content">
                         <img src="assets/frontend/img/home/services/003-branding1.svg" alt="enpix">
-                        <h3 class="heading-5"><a href="services.html">Digital Marketing</a></h3>
+                        <h3 class="heading-5"><a href="{{ route('service.ppcEmailSmsMarketing') }}">Digital
+                                Marketing</a></h3>
                         <p class="enpix-body-text-2">We design professional looking yet simple Logo.</p>
-                        <a href="services.html">
+                        <a href="{{ route('service.ppcEmailSmsMarketing') }}">
                             <svg width="37" height="15" viewbox="0 0 37 15" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path d="M30.1667 13.5098L36 7.50977L30.1667 1.50977M1 7.50977H36H1Z" stroke-width="1.5"
@@ -61,9 +62,10 @@
                 <div class="col-xl-3 col-sm-6">
                     <div class="service-content">
                         <img src="assets/frontend/img/home/services/004-pie-chart1.svg" alt="enpix">
-                        <h3 class="heading-5"><a href="services.html">Business Consultancy</a></h3>
+                        <h3 class="heading-5"><a href="{{ route('service.ppcEmailSmsMarketing') }}">Business
+                                Consultancy</a></h3>
                         <p class="enpix-body-text-2">We design professional looking yet simple Logo.</p>
-                        <a href="services.html">
+                        <a href="{{ route('service.ppcEmailSmsMarketing') }}">
                             <svg width="37" height="15" viewbox="0 0 37 15" fill="none"
                                 xmlns="http://www.w3.org/2000/svg">
                                 <path d="M30.1667 13.5098L36 7.50977L30.1667 1.50977M1 7.50977H36H1Z" stroke-width="1.5"
